@@ -1,0 +1,21 @@
+C:\Users\professor\Documents\Recep\Recep\bin\Debug\Recep.exe.config
+E:\Pen Drive\Recep\Recep\bin\Debug\Recep.exe.config
+E:\Pen Drive\Recep\Recep\bin\Debug\Recep.exe
+E:\Pen Drive\Recep\Recep\bin\Debug\Recep.pdb
+E:\Pen Drive\Recep\Recep\obj\Debug\Recep.csprojResolveAssemblyReference.cache
+E:\Pen Drive\Recep\Recep\obj\Debug\Recep.Form1.resources
+E:\Pen Drive\Recep\Recep\obj\Debug\Recep.Properties.Resources.resources
+E:\Pen Drive\Recep\Recep\obj\Debug\Recep.csproj.GenerateResource.Cache
+E:\Pen Drive\Recep\Recep\obj\Debug\Recep.exe
+E:\Pen Drive\Recep\Recep\obj\Debug\Recep.pdb
+K:\Pen Drive\Recep\Recep\obj\Debug\Recep.csprojResolveAssemblyReference.cache
+K:\Pen Drive\Recep\Recep\obj\Debug\Recep.Form1.resources
+K:\Pen Drive\Recep\Recep\obj\Debug\Recep.Properties.Resources.resources
+K:\Pen Drive\Recep\Recep\obj\Debug\Recep.csproj.GenerateResource.Cache
+K:\Pen Drive\Recep\Recep\obj\Debug\Recep.exe
+K:\Pen Drive\Recep\Recep\obj\Debug\Recep.pdb
+K:\Pen Drive\Recep\Recep\bin\Debug\Recep.exe.config
+K:\Pen Drive\Recep\Recep\bin\Debug\Recep.exe
+K:\Pen Drive\Recep\Recep\bin\Debug\Recep.pdb
+K:\Pen Drive\Recep\Recep\bin\Debug\MySql.Data.dll
+K:\Pen Drive\Recep\Recep\bin\Debug\MySql.Data.xml
